@@ -1,0 +1,32 @@
+# Data handling
+pandas
+numpy
+scipy
+pyarrow
+
+# Machine learning
+scikit-learn
+tsfresh
+xgboost
+lightgbm
+pywavelets
+
+# Deep learning
+torch
+torchvision
+pytorch-lightning
+
+# Visualization
+matplotlib
+seaborn
+missingno
+
+# Hyperparameter optimization
+optuna
+
+# Memory tracking
+psutil
+
+# Other utilities
+joblib
+tqdm
